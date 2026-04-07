@@ -2,7 +2,7 @@
 
 College Lover is a student-focused study material platform designed to provide high-quality academic resources, lecture notes, syllabus updates, and subject-wise materials in a clean and user-friendly interface.
 
-🌐 Live Website: https://collegelover.netlify.app/
+🌐 Live Website: https://collegeloverr-auvo.vercel.app/premium-notes.html
 
 ---
 
