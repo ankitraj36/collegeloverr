@@ -29,7 +29,7 @@ The goal of this project is to:
 - Font Awesome
 
 ### Deployment
-- Netlify
+- Vercel
 
 ---
 
